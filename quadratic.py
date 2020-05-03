@@ -1,6 +1,5 @@
 import math
 import sys
-import stdio
 
 b = float(sys.argv[1])
 c = float(sys.argv[2])
